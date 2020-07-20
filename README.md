@@ -14,3 +14,5 @@ Now that will be consumed by user details API
 
 ## To do list:
 1. Adding test 
+
+## Example:
